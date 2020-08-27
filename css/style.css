@@ -236,7 +236,7 @@ transform: scale(1.03);
     left: 0;
   
     background: repeating-linear-gradient( to bottom, black 0%, rgb(0 0 0) .5%, black 1% );
-  background: url("../wallpapers/4K\ Ultra\ HD\ Gaming\ Wallpapers\ \ \ Top\ 4K\ Ultra\ HD\ Gaming.jpg")no-repeat center center/cover;
+  background: url("../Wallpaper/wal3.jpg")no-repeat center center/cover;
     animation: fudge 7s ease-in-out alternate infinite;
     z-index: -10;
     
@@ -319,7 +319,7 @@ transform: scale(1.03);
   }
   #ourpatners::before{
     content: "";
-    background: url("../wallpapers/1444122-most-popular-4k-games-wallpaper-3840x2160-download-free.jpg")no-repeat center center/cover;
+    background: url("../Wallpaper/wal5.jpg")no-repeat center center/cover;
     position: absolute;
     top: 1375px;
     left: 0px;
@@ -440,7 +440,7 @@ section form h3:hover{
 }
 #login::before{
   content: "";
-  background: url("../wallpapers/Aynx6K.jpg") no-repeat center center/cover;
+  background: url("../Wallpaper/wal4.jpg") no-repeat center center/cover;
   position: absolute;
   top: 280vh;
   left: 0px;
